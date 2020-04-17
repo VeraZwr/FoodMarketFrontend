@@ -1,0 +1,13 @@
+<app-header></app-header>
+<div class = "up">
+  <mat-button-toggle  class = "button" (click)="signup();">sign up</mat-button-toggle>
+  <mat-button-toggle class = "button">login</mat-button-toggle>
+</div>
+
+<app-category></app-category>
+<app-products></app-products>
+<div>
+  <router-outlet class = 'products'></router-outlet>
+</div>
+<div></div>
+<app-footer></app-footer>
