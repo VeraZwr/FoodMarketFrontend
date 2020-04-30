@@ -1,6 +1,7 @@
 # FoodmarketFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+project refers to http://129.213.60.139/
 
 ## Development server
 
